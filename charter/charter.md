@@ -25,7 +25,7 @@ The Mission of the Project is to:
   - WG : Work Group
     - BEnd : Backend (Work Group)
     - FEnd : Frontend (Work Group)
-    - Sys : Systems (Work Group)
+    - Ops : Operations (Work Group)
   - WGL : Work Group Lead
 
 - Names
@@ -138,7 +138,7 @@ The duties of every Contributor are the same as Developers.
 
 #### 2.4.1 - Definition
 
-Work Group Leads are the primary drivers and heads of each of the three primary Work Groups: Frontend, Backend, and Systems. Each WGL is responsible for technical direction of, collecting and considering input from, and the code integrity of , their corresponding WG. Each WGL also serves on the SC to aid in and vote on project level decisions.
+Work Group Leads are the primary drivers and heads of each of the three primary Work Groups: Frontend, Backend, and Operations. Each WGL is responsible for technical direction of, collecting and considering input from, and the code integrity of , their corresponding WG. Each WGL also serves on the SC to aid in and vote on project level decisions.
 
 - Role Requirements
   - EP: Yes
@@ -303,7 +303,7 @@ Elections take place for leadership roles. All **Developers**, subject to each r
 |      Position     |     Total Available    |
 |-------------------|------------------------|
 | SC                | 4                      |
-| WGL               | 3 - FEnd, BEnd, or Sys |
+| WGL               | 3 - FEnd, BEnd, or Ops |
 | GitHub Admin      | 2(min) or 3(max)       |
 | GitHub Maintainer | 2 (per repository)     |
 | Discord Admin     | 2(min) or 3(max)       |
